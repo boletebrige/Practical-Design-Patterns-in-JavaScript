@@ -14,7 +14,7 @@ var repo = function () {
     var save = function (task) {
         console.log('Saving ' + task.name + ' to the db');
     }
-
+     console.log('newing up task repo');
     // methods that module returns
     return {
         get: get,
