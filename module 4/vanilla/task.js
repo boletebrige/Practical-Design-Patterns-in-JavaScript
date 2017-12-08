@@ -1,3 +1,4 @@
+// Decorator Pattern
 var Task = function (name) {
     this.name = name;
     this.completed = false;

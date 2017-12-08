@@ -1,3 +1,4 @@
+// More Complicated Decorator Pattern
 // JavaScriot doesn't have subclassing so we call this subObjecting
 var Task = function (name) {
     this.name = name;
